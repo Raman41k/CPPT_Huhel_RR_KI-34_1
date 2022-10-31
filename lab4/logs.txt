@@ -1,0 +1,6 @@
+[2022-10-28 at 16:25:51 EEST] Logger start to work
+[2022-10-28 at 16:25:51 EEST] [INFO] Dog constructor called
+[2022-10-28 at 16:25:51 EEST] [INFO] ExperimentalDog constructor called
+[2022-10-28 at 16:25:51 EEST] [INFO] ExperimentalDog bark method was called
+[2022-10-28 at 16:25:51 EEST] [INFO] ExperimentalDog bark method was called
+[2022-10-28 at 16:25:51 EEST] [INFO] ExperimentalDog Respond method was called
